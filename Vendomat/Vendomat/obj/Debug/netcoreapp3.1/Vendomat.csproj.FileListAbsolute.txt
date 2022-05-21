@@ -1,0 +1,13 @@
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.exe
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.deps.json
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.runtimeconfig.json
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.runtimeconfig.dev.json
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.dll
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\bin\Debug\netcoreapp3.1\Vendomat.pdb
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.csprojAssemblyReference.cache
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.AssemblyInfoInputs.cache
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.AssemblyInfo.cs
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.dll
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.pdb
+C:\Users\Alexandra\source\repos\Vendomat\Vendomat\obj\Debug\netcoreapp3.1\Vendomat.genruntimeconfig.cache

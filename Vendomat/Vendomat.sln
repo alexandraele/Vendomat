@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendomat", "Vendomat\Vendomat.csproj", "{18872DBB-32F1-4A1F-B9C5-E6F9BB552EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18872DBB-32F1-4A1F-B9C5-E6F9BB552EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18872DBB-32F1-4A1F-B9C5-E6F9BB552EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18872DBB-32F1-4A1F-B9C5-E6F9BB552EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18872DBB-32F1-4A1F-B9C5-E6F9BB552EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70ADE0F0-E7A1-45B0-B341-611D3F598946}
+	EndGlobalSection
+EndGlobal
